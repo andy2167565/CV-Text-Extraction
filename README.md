@@ -12,7 +12,7 @@ Text Recognition and Extraction System on completed standard forms in image form
     └── ...
 
 ## Logic Flow
-1.	Execute TextExtraction_AllPages.py to trigger other scripts
+1.	Execute ```TextExtraction_AllPages.py``` to trigger other scripts
 2.	Read configuration from form option list file
 3.	Scan and extract data from each page respectively
 4.	Save extracted data as JSON and CSV files
